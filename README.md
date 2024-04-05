@@ -29,6 +29,8 @@ Working on <a href=''>Telecheck</a> at COGNIZANT. Graduated from Lovely Professi
 
 ## My skills 🚀
 
+![](https://img.shields.io/badge/Java-87CEEB?style=for-the-badge&logo=Java&logoColor=black)
+![](https://img.shields.io/badge/Spring%20Boot-90EE90?style=for-the-badge&logo=spring&logoColor=black)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -43,6 +45,7 @@ Working on <a href=''>Telecheck</a> at COGNIZANT. Graduated from Lovely Professi
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+<!--
 ## My Github Status 🦸
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
@@ -53,3 +56,4 @@ Working on <a href=''>Telecheck</a> at COGNIZANT. Graduated from Lovely Professi
 [![Urvashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhurvashi)](https://github.com/singhurvashi/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhurvashi&langs_count=8)](https://github.com/singhurvashi/github-readme-stats)
+-->
